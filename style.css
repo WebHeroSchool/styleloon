@@ -1,0 +1,38 @@
+ .img{
+    position: relative;    
+         }
+         .img h1 {           
+    position: absolute;
+    left: 0;     
+    bottom: 0;
+    width: 100%;    
+    margin-left: 16px;
+    color:  #FFFFFF;
+    font-family: Arial;          
+    letter-spacing: 2px;    
+         }
+         .img .fon {
+    position: absolute; 
+    background-color: rgba(0, 0, 0, 0.7);    
+    width: 100%; 
+    height: 14%; 
+    top: 85.5%;
+    left: 0px;
+         }         
+         .line { 
+    border-left: 3px solid #E0FFFF; /* Параметры линии */ 
+    margin-left: 20px; /* Отступ слева */
+    padding-left: 10px; /* Расстояние от линии до текста */ 
+    line-height: 1.5;
+         }
+         .all_line {
+    border-left: 1px solid #DCDCDC; /* Параметры линии */ 
+    margin-left: 20px; /* Отступ слева */
+    padding-right: 10px;
+    border-right: 1px solid #DCDCDC; /* Параметры линии */ 
+    margin-right: 10px; /* Отступ слева */
+    padding-right: 10px;         
+         }
+         .text {
+           margin-left: 20px;
+         }          

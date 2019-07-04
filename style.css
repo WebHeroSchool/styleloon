@@ -1,4 +1,12 @@
-.img{
+        @import url('https://fonts.googleapis.com/css?family=Barriecito&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Rubik+Mono+One&display=swap');
+         body {
+             font-family: 'Barriecito', cursive;
+         }
+         h1 {
+           font-family: 'Rubik Mono One', sans-serif;
+         }
+         .img{
     position: relative;    
          }
          .img h1 {           
@@ -7,8 +15,7 @@
     bottom: 0;
     width: 100%;    
     margin-left: 16px;
-    color:  #FFFFFF;
-    font-family: Arial;          
+    color:  #FFFFFF;          
     letter-spacing: 2px;    
          }
          .img .fon {
@@ -35,4 +42,4 @@
          }
          .text {
            margin-left: 20px;
-         }          
+         }  
